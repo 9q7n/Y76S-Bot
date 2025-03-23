@@ -3,7 +3,7 @@
 ## Information
 The Y76S Discord Bot has been created and manufactured by YS Laboratories, under the leadership of @krausmann, or @9q7n, it is a multi-purpose bot that has been specifically created for Y76S usage __only__.
 
-## Get in touch 💬
+## Get in touch
 | Platform  | Link |
 | ------------- | ------------- |
 | Y76S Public Affairs | [Click here](https://discord.gg/PcUc9U4Wat) |
